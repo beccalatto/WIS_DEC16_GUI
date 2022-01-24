@@ -10,7 +10,7 @@ Visualise December 16th seismicity, with options of:
 - Component (Z, N, E)
 - Filter (None, Lowpass 1 Hz, Highpass 1 Hz)
 - Pre-processing (Detrended, detrended + frequency normalised)
-- Vertical axis limits (Default = central station median at local noon; options for 50%, 100%, 250%, 500%, and 1000%)
+- Vertical axis limits (Default = central station median at local noon; options for 50%, 100%, 250%, 500%)
 
 Download instructions:
 - Download this repository and unzip
