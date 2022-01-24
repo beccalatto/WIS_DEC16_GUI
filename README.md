@@ -1,6 +1,7 @@
 # Dayplot viewer
 
 Use this tool to visualise the seismicity from Whillans Ice Stream, West Antarctica for a day in the 2010 summer deployment (December 16th, 2010).
+Paul Winberry, Sridhar Anandakrishnan, & Douglas Wiens. (2010). Geophysical Study of Ice Stream Stick-slip dynamics. International Federation of Digital Seismograph Networks. https://doi.org/10.7914/SN/2C_2010
 
 <img src="https://github.com/beccalatto/WIS_DEC16_GUI/blob/main/images/BB_RESET.png" width="300" height="300">
 
