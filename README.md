@@ -3,7 +3,7 @@
 Use this tool to visualise the dayplot for a day in the 2010 summer deployment (December 16th, 2010) at the Whillans Ice Stream, West Antarctica.
 
 
-![Whillans Ice Stream](https://github.com/beccalatto/WIS_DEC16_GUI/blob/main/images/BB_RESET.png)
+![Whillans Ice Stream](https://github.com/beccalatto/WIS_DEC16_GUI/blob/main/images/BB_RESET.png=250x250)
 
 Visualise December 16th seismicity, with options of:
 - Single station or multiple stations as a composite
