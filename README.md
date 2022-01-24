@@ -1,6 +1,6 @@
 # Dayplot viewer
 
-Use this tool to visualise the dayplot for a day in the 2010 summer deployment (December 16th, 2010) at the Whillans Ice Stream, West Antarctica.
+Use this tool to visualise the seismicity from Whillans Ice Stream, West Antarctica for a day in the 2010 summer deployment (December 16th, 2010).
 
 <img src="https://github.com/beccalatto/WIS_DEC16_GUI/blob/main/images/BB_RESET.png" width="300" height="300">
 
@@ -16,6 +16,13 @@ Download instructions:
 - Open a Python compiler (GUI constructed in Spyder)
 - Set local directory to repository
 - Run gui.py
+
+Python dependencies:
+- Python 3 (Untested for Python 2)
+- Required packages:
+  - pillow
+  - PySimpleGUI
+  - opencv-python
 
 Troubleshoot:
 If GUI will not close, try window.close() in console. 
