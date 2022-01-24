@@ -12,7 +12,7 @@ Visualise December 16th seismicity, with options of:
 - Vertical axis limits (Default = central station median at local noon; options for 50%, 100%, 250%, 500%)
 
 Download instructions:
-- Download this repository and unzip
+- Download this repository and Extract folder. Requires 853 MB.
 - Open a Python compiler (GUI constructed in Spyder)
 - Set local directory to repository
 - Run gui.py
