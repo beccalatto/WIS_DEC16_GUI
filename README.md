@@ -1,6 +1,6 @@
 # Dayplot viewer
 
-Use this tool to visualise the seismicity from Whillans Ice Stream, West Antarctica for a day in the 2010 summer deployment (December 16th, 2010). We chose this day as a representative example of typical seismicity following a manual reconnaisance of several weeks of data, as well as utilizing a priori knowledge of global catalogue events (teleseisms) and a Pratt, 2014 stick-slip.
+Use this tool to visualise the seismicity from Whillans Ice Stream, West Antarctica for a day in the 2010 summer deployment (December 16th, 2010). We chose this day as a representative example of typical seismicity following a manual reconnaisance of several weeks of data, as well as utilizing available knowledge of global catalogue events (teleseisms) and a Pratt, 2014 stick-slip.
 
 <img src="https://github.com/beccalatto/WIS_DEC16_GUI/blob/main/images/BB_RESET.png" width="300" height="300">
 
@@ -45,5 +45,7 @@ Other questions can be directed to RL2797 [@] columbia [.edu]
 
 References:
 WORKFLOW: Latto, R., Turner, R. J., Reading, A. M., Winberry, J. P., “Event detection for cryoseismology.” The Cryosphere, in prep.
+
 DATASET: Paul Winberry, Sridhar Anandakrishnan, & Douglas Wiens. (2010). Geophysical Study of Ice Stream Stick-slip dynamics. International Federation of Digital Seismograph Networks. https://doi.org/10.7914/SN/2C_2010
+
 SOFTWARE: Turner, R. J., Latto, R. B., & Reading, A. M. (2021). An ObsPy Library for Event Detection and Seismic Attribute Calculation: Preparing Waveforms for Automated Analysis. Journal of Open Research Software, 9(1), 29. DOI: http://doi.org/10.5334/jors.365
