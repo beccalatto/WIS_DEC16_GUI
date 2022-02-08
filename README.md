@@ -1,4 +1,4 @@
-# Dayplot viewer
+# Dayplot and event detection viewer
 
 Use this tool to visualise the seismicity from Whillans Ice Stream, West Antarctica for a day in the 2010 summer deployment (December 16th, 2010). We chose this day as a representative example of typical seismicity following a manual reconnaisance of several weeks of data, as well as utilizing available knowledge of global catalogue events (teleseisms) and a Pratt, 2014 stick-slip.
 
